@@ -6,5 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mchtshn/rentcloud/tree/master/config-store
-          search-paths: 'profile-service'
+          uri: https://github.com/mchtshn/rent-cloud-config-store
+          search-paths: 'profile*'
